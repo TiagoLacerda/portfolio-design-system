@@ -1,6 +1,6 @@
 name: portfolio_design_system
 description: "A design system for a portfolio website implemented with Flutter."
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/TiagoLacerda/portfolio-design-system
 publish_to: "none"
 
