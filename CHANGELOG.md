@@ -1,3 +1,7 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* Initial release.
+* `PortfolioTheme` with light and dark `ThemeData`, using the Inter font.
+* `PortfolioColors` theme extension with the light and dark palettes.
+* `PortfolioIcons` with the English and Portuguese flag assets.
+* `PortfolioResponsiveBox` and `PortfolioBrightnessSwitch` widgets.
